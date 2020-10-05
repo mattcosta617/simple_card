@@ -1,0 +1,1 @@
+This card was created to display HTML and CSS abilities. It also allows for people to view my resume and my portfolio via links or call or email me if interested in hiring or connecting. 
